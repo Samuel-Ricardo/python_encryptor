@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "python-encryptor"
+version = "0.1.0"
+description = ""
+authors = ["samuel-ricardo <samuelricardoofficial@gmail.com>"]
+readme = "README.md"
+packages = [{include = "python_encryptor"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
