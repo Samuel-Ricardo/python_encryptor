@@ -15,6 +15,7 @@ mkdocs = "^1.4.1"
 prospector = "^1.7.7"
 mypy = "^0.982"
 bandit = "^1.7.4"
+pip-audit = "^2.4.4"
 
 
 
